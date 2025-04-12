@@ -17,13 +17,11 @@ A repackaged version of the Sana Sprint reference app configured for macOS and L
 
 ### Installation
 ```bash
-git clone https://github.com/ramborogers/sanasprint 
-cd SanaSprint
-sh setup.sh```
+git clone https://github.com/DevAryanPro/SaaS-kaiiddo
+sh setup.sh
 
 ### Running the Application
 ```bash
-cd SanaSprint
 source .venv/bin/activate
 python app.py
 
