@@ -20,3 +20,18 @@ A repackaged version of the Sana Sprint reference app configured for macOS and L
 git clone https://github.com/ramborogers/sanasprint 
 cd SanaSprint
 sh setup.sh
+
+### Running the Application
+```bash
+cd SanaSprint
+source .venv/bin/activate
+python app.py
+
+### ⚖️ Licensing
+Model License
+Review the model's commercial license before use.
+
+### GUI License
+Sana Sprint GUI is licensed under:
+```bash
+GNU General Public License v3.0 (GPLv3)
