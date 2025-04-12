@@ -21,7 +21,6 @@ git clone https://github.com/DevAryanPro/SaaS-kaiiddo
 sh setup.sh
 
 ### Running the Application
-```bash
 source .venv/bin/activate
 python app.py
 
@@ -31,5 +30,4 @@ Review the model's commercial license before use.
 
 ### GUI License
 Sana Sprint GUI is licensed under:
-```bash
 GNU General Public License v3.0 (GPLv3)
