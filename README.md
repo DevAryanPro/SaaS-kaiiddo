@@ -19,7 +19,7 @@ A repackaged version of the Sana Sprint reference app configured for macOS and L
 ```bash
 git clone https://github.com/ramborogers/sanasprint 
 cd SanaSprint
-sh setup.sh
+sh setup.sh```
 
 ### Running the Application
 ```bash
